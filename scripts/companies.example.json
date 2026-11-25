@@ -1,0 +1,261 @@
+[
+ {
+  "name": "RebelDot",
+  "group": "A",
+  "ats": "teamtailor",
+  "slug": "rebeldot"
+ },
+ {
+  "name": "AROBS",
+  "group": "A",
+  "ats": "icims",
+  "slug": "careers-arobs"
+ },
+ {
+  "name": "Garmin Cluj",
+  "group": "A",
+  "ats": "workable",
+  "slug": "garmin-cluj"
+ },
+ {
+  "name": "Bosch Romania",
+  "group": "A",
+  "ats": "smartrecruiters",
+  "slug": "BoschGroup",
+  "country": "ro"
+ },
+ {
+  "name": "Wolters Kluwer",
+  "group": "A",
+  "ats": "workday",
+  "host": "wk.wd3.myworkdayjobs.com",
+  "tenant": "wk",
+  "site": "External"
+ },
+ {
+  "name": "Bitdefender",
+  "group": "A",
+  "ats": "greenhouse",
+  "slug": "scbitdefendersrl"
+ },
+ {
+  "name": "Explora Solutions",
+  "group": "A",
+  "ats": "greenhouse",
+  "slug": "explorasolutions"
+ },
+ {
+  "name": "Speechify",
+  "group": "A",
+  "ats": "greenhouse",
+  "slug": "speechify"
+ },
+ {
+  "name": "Nagarro",
+  "group": "A",
+  "ats": "smartrecruiters",
+  "slug": "Nagarro1",
+  "country": "ro"
+ },
+ {
+  "name": "Mindera",
+  "group": "A",
+  "ats": "workable",
+  "slug": "mindera"
+ },
+ {
+  "name": "Flow Traders",
+  "group": "A",
+  "ats": "greenhouse",
+  "slug": "flowtraders"
+ },
+ {
+  "name": "Genpact",
+  "group": "A",
+  "ats": "workday",
+  "host": "genpact.wd108.myworkdayjobs.com",
+  "tenant": "genpact",
+  "site": "External_Careers"
+ },
+ {
+  "name": "UiPath",
+  "group": "B",
+  "ats": "ashby",
+  "slug": "uipath"
+ },
+ {
+  "name": "Tremend",
+  "group": "B",
+  "ats": "workable",
+  "slug": "tremend"
+ },
+ {
+  "name": "Oyster HR",
+  "group": "B",
+  "ats": "ashby",
+  "slug": "oyster"
+ },
+ {
+  "name": "Canonical",
+  "group": "B",
+  "ats": "greenhouse",
+  "slug": "canonical"
+ },
+ {
+  "name": "GitLab",
+  "group": "B",
+  "ats": "greenhouse",
+  "slug": "gitlab"
+ },
+ {
+  "name": "Grafana Labs",
+  "group": "B",
+  "ats": "greenhouse",
+  "slug": "grafanalabs"
+ },
+ {
+  "name": "Elastic",
+  "group": "B",
+  "ats": "greenhouse",
+  "slug": "elastic"
+ },
+ {
+  "name": "Kraken",
+  "group": "B",
+  "ats": "ashby",
+  "slug": "kraken.com"
+ },
+ {
+  "name": "Synthesia",
+  "group": "B",
+  "ats": "ashby",
+  "slug": "synthesia"
+ },
+ {
+  "name": "n8n",
+  "group": "B",
+  "ats": "ashby",
+  "slug": "n8n"
+ },
+ {
+  "name": "RevenueCat",
+  "group": "B",
+  "ats": "ashby",
+  "slug": "revenuecat"
+ },
+ {
+  "name": "DoiT International",
+  "group": "B",
+  "ats": "greenhouse",
+  "slug": "doitintl"
+ },
+ {
+  "name": "Customer.io",
+  "group": "B",
+  "ats": "greenhouse",
+  "slug": "customerio"
+ },
+ {
+  "name": "Product People",
+  "group": "B",
+  "ats": "greenhouse_eu",
+  "slug": "productpeople"
+ },
+ {
+  "name": "Jobgether",
+  "group": "B",
+  "ats": "lever",
+  "slug": "jobgether"
+ },
+ {
+  "name": "Nuitée",
+  "group": "B",
+  "ats": "greenhouse_eu",
+  "slug": "nuitee"
+ },
+ {
+  "name": "Growe Talents",
+  "group": "B",
+  "ats": "greenhouse_eu",
+  "slug": "growetalents"
+ },
+ {
+  "name": "Pragmatike",
+  "group": "B",
+  "ats": "ashby",
+  "slug": "pragmatike"
+ },
+ {
+  "name": "Eneba",
+  "group": "B",
+  "ats": "ashby",
+  "slug": "eneba"
+ },
+ {
+  "name": "Travelminit",
+  "group": "A",
+  "ats": "personio",
+  "slug": "travelminit"
+ },
+ {
+  "name": "Caseware",
+  "group": "B",
+  "ats": "lever",
+  "slug": "caseware"
+ },
+ {
+  "name": "Patrianna",
+  "group": "B",
+  "ats": "ashby",
+  "slug": "patrianna"
+ },
+ {
+  "name": "Modash",
+  "group": "B",
+  "ats": "workable",
+  "slug": "modash"
+ },
+ {
+  "name": "MMDSmart",
+  "group": "B",
+  "ats": "workable",
+  "slug": "mmdsmart-ltd"
+ },
+ {
+  "name": "Superbet (Super Technologies)",
+  "group": "A",
+  "ats": "greenhouse_eu",
+  "slug": "super"
+ },
+ {
+  "name": "ARRISE",
+  "group": "B",
+  "ats": "jobvite",
+  "slug": "pragmaticplay"
+ },
+ {
+  "name": "Betsson Group",
+  "group": "B",
+  "ats": "greenhouse",
+  "slug": "betsson"
+ },
+ {
+  "name": "Kaizen Gaming",
+  "group": "B",
+  "ats": "greenhouse",
+  "slug": "kaizengaming"
+ },
+ {
+  "name": "FanDuel",
+  "group": "B",
+  "ats": "greenhouse",
+  "slug": "fanduel"
+ },
+ {
+  "name": "Sportradar",
+  "group": "B",
+  "ats": "smartrecruiters",
+  "slug": "Sportradar",
+  "note": "sportradar.com e blocat in browser (gambling); board-ul ATS merge"
+ }
+]

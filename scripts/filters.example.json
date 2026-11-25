@@ -1,0 +1,6 @@
+{
+ "title_include": "product\\s+(manager|owner|lead|director)|head\\s+of\\s+product|chief\\s+product|vp,?\\s+product|director,?\\s+(of\\s+)?product|group\\s+product|business\\s+analyst|program(me)?\\s+manager",
+ "title_exclude": "product\\s+marketing|product\\s+design|designer|engineer|developer|\\bsales\\b",
+ "home_country": "romania|rom[aâ]nia|,\\s*ro\\b|\\(ro\\)|bucharest|bucure[sșş]ti|cluj|ia[sșş]i|timi[sșş]oara|bra[sșş]ov|sibiu|oradea|craiova",
+ "home_city": "cluj"
+}
